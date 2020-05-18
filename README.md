@@ -8,9 +8,9 @@ To run type: python scrape.py -a 'artist name' -c 'credentials.json' -o 'output-
 For English Song lyrics following analysis have been done:
 1. Exploratory Data Analysis: to understand the data
 2. Classifiers
-  2.1. Naive Bayes
-  2.2. Logistic Regression
-  2.3. Random Forest
-  2.4. Support Vector Machine
+2.1. Naive Bayes
+2.2. Logistic Regression
+2.3. Random Forest
+2.4. Support Vector Machine
   
 For Hindi Song lyrics "Resource Based Sentiment Analysis" is done using Hindi Sentiwordnet as resource.
