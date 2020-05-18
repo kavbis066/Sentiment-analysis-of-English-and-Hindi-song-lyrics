@@ -14,3 +14,5 @@ For English Song lyrics following analysis have been done:
 2.4. Support Vector Machine
   
 For Hindi Song lyrics "Resource Based Sentiment Analysis" is done using Hindi Sentiwordnet as resource.
+
+This is an on-going project, there are a lot of things to achieve for Hindi Song Lyrics.
